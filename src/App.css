@@ -3,3 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.swiper-scrollbar>.swiper-scrollbar-horizontal{
+display: none !important;
+}
