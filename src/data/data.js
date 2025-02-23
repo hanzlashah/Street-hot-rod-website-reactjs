@@ -30,49 +30,49 @@ let data = [
         pirce: '$10,900'
     },
     {
-        img: pic1,
+        img: pic2,
         heading1: '1956 CHEVROLET',
         heading2: 'CAMEO',
         para: 'EXTREMELY RARE CAMEO BIG WINDOW ORIGNAL 235 6 CYL MANUAL RECENT',
         pirce: '$36,900'
     },
     {
-        img: pic1,
+        img: pic3,
         heading1: '1967 FORD',
         heading2: 'BRONCO',
         para: 'SUSPENSION LIFT DUAL SHOCKS WINCH REBUILT 302 V8 LED PS PB 4W DISC 37',
         pirce: '$54,900'
     },
     {
-        img: pic1,
+        img: pic4,
         heading1: '1997 FORD',
         heading2: 'F-250',
         para: 'XLT 460 V8 WITH 500 MILES AFTER REBUILD AUTO TWO TONES NEW RADIALS',
         pirce: '$19,900'
     },
     {
-        img: pic1,
+        img: pic5,
         heading1: '1987 MERCEDES BENZ',
         heading2: '560SL',
         para: 'CLEAN 560 SL 5.6L V8 AUTOMATIC LOW MILEAGE FACTORY CORRECT PS PB COLD',
         pirce: '$17,900'
     },
     {
-        img: pic1,
+        img: pic6,
         heading1: '1986 MERCEDES-BENZ',
         heading2: '560SL',
         para: 'LOW MILES V8 AUTO PS PB COLLECTOR',
         pirce: '$10,900'
     }, 
     {
-        img: pic1,
+        img: pic7,
         heading1: '1974 CHEVROLET',
         heading2: 'CORVETTE',
         para: 'ORIGNAL 350 V8 T-TOP CORVETTE 4 WHEEL DISC 4 SPEED MANUAL PS PB',
         pirce: '$17,900'
     },
     {
-        img: pic1,
+        img: pic8,
         heading1: '1992 DODGE',
         heading2: 'RAM 250',
         para: '60 V8 AUTO DRY COLO TRUCK 1 FAMILY OWNED ONE REPAINT 4X4 PS PB PL PM',
